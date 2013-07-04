@@ -52,7 +52,7 @@
         <dependency>
             <groupId>de.eonas.portal</groupId>
             <artifactId>opencmsportal</artifactId>
-            <version>8.5.1.1</version>
+            <version>8.5.1.2-SNAPSHOT</version>
             <type>war</type>
         </dependency>
     </dependencies>
