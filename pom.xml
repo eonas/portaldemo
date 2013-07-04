@@ -9,7 +9,7 @@
 
     <groupId>de.eonas.portal.demo</groupId>
     <artifactId>portal</artifactId>
-    <version>8.5.1.2-SNAPSHOT</version>
+    <version>8.5.1.2</version>
     <packaging>war</packaging>
     <name>Portal based on OpenCMs</name>
     <description>Webapp with Pluto 2</description>
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>de.eonas.portal</groupId>
             <artifactId>opencmsportal</artifactId>
-            <version>8.5.1.2-SNAPSHOT</version>
+            <version>8.5.1.2</version>
             <type>war</type>
         </dependency>
     </dependencies>
