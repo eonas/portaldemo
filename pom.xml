@@ -4,7 +4,7 @@
     <parent>
         <artifactId>opencmswebapp</artifactId>
         <groupId>de.eonas.portal.parentpoms</groupId>
-        <version>1.1</version>
+        <version>1.2-SNAPSHOT</version>
     </parent>
 
     <groupId>de.eonas.portal.demo</groupId>
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>de.eonas.portal</groupId>
             <artifactId>opencmsportal</artifactId>
-            <version>9.0.0.3</version>
+            <version>9.5.2.1-SNAPSHOT</version>
             <type>war</type>
         </dependency>
     </dependencies>
